@@ -41,7 +41,7 @@ Economy & Technology Development Zone Dalian, China 116621
   
 ###Hobbies	  
 - Browse the Stackover Flow and SegementFault to enrich the knowledge of the CS
-- Play Badminton and billiards- Watch the speech of the Obama and some other TED Videos.
+- Play Badminton and billiards- Watch the speech of the Obama and some other TED Videos
 
 ###Personal Website
 - Blog: <http://jiutianhuayu.github.io>  
