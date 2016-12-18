@@ -1,5 +1,4 @@
 #Liu Yu
----
 
 ###Personal Information
 - **Email**: liuyu_ssdut@163.com　　　　　  
@@ -17,10 +16,13 @@ Economy & Technology Development Zone Dalian, China 116621
 - Be able to formally communicate with foreigners in English
 
 ###Objective
-- Seeking a position that design and develop mobile web and mobile webapp.###Skills and Proficiencies:
+- Seeking a position that design and develop mobile web and mobile webapp.
+
+###Skills and Proficiencies:
 - Skilled in using `Jquery Mobile` frame to make mobile web.
 - Skilled in using `Bootstrap3.0` web frame and using `LESS` to customize it.
-- Skilled in use open-source library `jQuery` and had read part of it source code  - Skilled in using `Github` to cooperate on mutil branches at the same time.   
+- Skilled in use open-source library `jQuery` and had read part of it source code  
+- Skilled in using `Github` to cooperate on mutil branches at the same time.   
 - Be able to use `NodeJS` to develop server environment.
 - Be able to use `VueJs` develop single page application.
 - Know about `ReactJs` and `AngularJs` and other MV* frame.	
@@ -41,7 +43,8 @@ Economy & Technology Development Zone Dalian, China 116621
   
 ###Hobbies	  
 - Browse the Stackover Flow and SegementFault to enrich the knowledge of the CS
-- Play Badminton and billiards- Watch the speech of the Obama and some other TED Videos
+- Play Badminton and billiards
+- Watch the speech of the Obama and some other TED Videos
 
 ###Personal Website
 - Blog: <http://jiutianhuayu.github.io>  
