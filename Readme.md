@@ -1,24 +1,24 @@
-#Liu Yu
+# Liu Yu
 
-###Personal Information
+### Personal Information
 - **Email**: liuyu_ssdut@163.com　　　　　  
 - **Phone**: 1869703568  
 - **Address**: Software School, Dalian University of Technology,
 No321 TuQiang Street
 Economy & Technology Development Zone Dalian, China 116621
 
-###Education:
+### Education:
 - 2014～2018 　Bachelor's degree 　Software Engineering   Dalian University of Technology 
 
-###English Skills:
+### English Skills:
 - **CET 6**: 554   
 - Have no obstacles to watch TED and English mooc without subtitle  
 - Be able to formally communicate with foreigners in English
 
-###Objective
+### Objective
 - Seeking a position that design and develop mobile web and mobile webapp.
 
-###Skills and Proficiencies:
+### Skills and Proficiencies:
 - Skilled in using `Jquery Mobile` frame to make mobile web.
 - Skilled in using `Bootstrap3.0` web frame and using `LESS` to customize it.
 - Skilled in use open-source library `jQuery` and had read part of it source code  
@@ -27,7 +27,7 @@ Economy & Technology Development Zone Dalian, China 116621
 - Be able to use `VueJs` develop single page application.
 - Know about `ReactJs` and `AngularJs` and other MV* frame.	
 
-###Project Experience	
+### Project Experience	
 - 2016.07~2016.09     “YiDaitong” --- Small business loan application platform  
   Use **Bootstrap3.0** to construct the main frame of the web and use **jQuery** to  transfer data and operate DOM.  
   **Github**:<https://github.com/jiutianhuayu/citi2016>
