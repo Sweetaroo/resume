@@ -36,18 +36,17 @@ Economy & Technology Development Zone Dalian, China 116621
   Use **jQuery Mobile Frame** and **Html5** to develop wechat application and fit for all kinds of mobile terminal  
   **Github**:<https://github.com/jiutianhuayu/citi2016>
   
-- 2016.09~2016.11     "CitiClub"--- Resources and information sharing website  
+- 2016.09~2017.11     "CitiClub"--- Resources and information sharing website  
   Use VueJs to develop single page application  
   **Github:**<https://github.com/jiutianhuayu/citi2016>
   
   
-###Hobbies	  
+### Hobbies	  
 - Browse the Stackover Flow and SegementFault to enrich the knowledge of the CS
 - Play Badminton and billiards
 - Watch the speech of the Obama and some other TED Videos
 
-###Personal Website
-- Blog: <http://jiutianhuayu.github.io>  
+### Personal Website  
 - Github: <http://github.com/jiutianhuayu>  
 - Weibo: <http://weibo.com/jiutianhuayu>
 
