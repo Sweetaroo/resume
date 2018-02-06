@@ -15,8 +15,6 @@ Economy & Technology Development Zone Dalian, China 116621
 - Have no obstacles to watch TED and English mooc without subtitle  
 - Be able to formally communicate with foreigners in English
 
-### Objective
-- Seeking a position that design and develop mobile web and mobile webapp.
 
 ### Skills and Proficiencies:
 - Skilled in using `Jquery Mobile` frame to make mobile web.
