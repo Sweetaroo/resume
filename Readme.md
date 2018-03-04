@@ -11,7 +11,7 @@ Economy & Technology Development Zone Dalian, China 116621
 - 2014～2018 　Bachelor's degree 　Software Engineering   Dalian University of Technology 
 
 ### English Skills:
-- **CET 6**: 554   
+- **CET 6**: 551   
 - Be able to watch TED and English mooc without subtitle  
 - Be able to formally communicate with foreigners in English
 
