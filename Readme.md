@@ -12,7 +12,7 @@ Economy & Technology Development Zone Dalian, China 116621
 
 ### English Skills:
 - **CET 6**: 554   
-- Have no obstacles to watch TED and English mooc without subtitle  
+- Be able to watch TED and English mooc without subtitle  
 - Be able to formally communicate with foreigners in English
 
 
