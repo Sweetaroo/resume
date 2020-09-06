@@ -7,9 +7,9 @@
 - **联系地址**：南京江宁开发区东南大学路2号计算机学院
 
 ### 教育经历
-- 2014-2018  &nbsp;&nbsp;&nbsp;学士&nbsp;&nbsp;软件工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大连理工大学
-- 2014-2018  &nbsp;&nbsp;&nbsp;学士&nbsp;&nbsp;工商管理（双学位）大连理工大学
-- 2018-至今   &nbsp;&nbsp;&nbsp;&nbsp;硕士&nbsp;&nbsp;计算机技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;东南大学（研三）
+- 2014-2018  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士&nbsp;&nbsp;软件工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大连理工大学
+- 2014-2018  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士&nbsp;&nbsp;工商管理（双学位）大连理工大学
+- 2018-至今   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士&nbsp;&nbsp;计算机技术&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;东南大学（研三）
 
 ### 研究成果
 - “Semi-Supervised 3D Shape Recognition via Multimodal Deep Co-training”
